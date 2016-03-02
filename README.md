@@ -32,6 +32,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma  #article
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs #article
 * [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish #article
+* [ES6 in depth](https://ponyfoo.com/articles/tagged/es6-in-depth) A series of articles about ES6, very thorough. Great read.
 
 ## Required Viewing
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott) #talk
